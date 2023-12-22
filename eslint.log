@@ -1,0 +1,167 @@
+
+/home/runner/work/exp-linear-combination-and-span-dei/exp-linear-combination-and-span-dei/experiment/simulation/js/lc.js
+    1:10  warning  'abgzero' is defined but never used     no-unused-vars
+    5:14  warning  'abgpos' is defined but never used      no-unused-vars
+    9:14  warning  'abgneg' is defined but never used      no-unused-vars
+   14:14  warning  'abgzero2' is defined but never used    no-unused-vars
+   18:14  warning  'abgpos2' is defined but never used     no-unused-vars
+   22:14  warning  'abgneg2' is defined but never used     no-unused-vars
+   28:11  warning  'azerobzero' is defined but never used  no-unused-vars
+   32:11  warning  'azerobnum' is defined but never used   no-unused-vars
+   36:11  warning  'anumbnum' is defined but never used    no-unused-vars
+   41:14  warning  'abzero' is defined but never used      no-unused-vars
+   45:14  warning  'abpos' is defined but never used       no-unused-vars
+   49:14  warning  'abneg' is defined but never used       no-unused-vars
+   56:11  warning  'alphazero' is defined but never used   no-unused-vars
+   60:11  warning  'alphaptwo' is defined but never used   no-unused-vars
+   64:11  warning  'alphaneg' is defined but never used    no-unused-vars
+   69:14  warning  'azero' is defined but never used       no-unused-vars
+   73:14  warning  'apos' is defined but never used        no-unused-vars
+   77:14  warning  'aneg' is defined but never used        no-unused-vars
+  269:9   warning  'i' is already defined                  no-redeclare
+  431:9   warning  'i' is already defined                  no-redeclare
+  586:5   warning  'numlines_x' is already defined         no-redeclare
+  587:5   warning  'numlines_y' is already defined         no-redeclare
+  590:9   warning  'i' is already defined                  no-redeclare
+  728:9   warning  'i' is already defined                  no-redeclare
+  883:5   warning  'numx' is already defined               no-redeclare
+  884:5   warning  'numy' is already defined               no-redeclare
+  887:9   warning  'i' is already defined                  no-redeclare
+
+/home/runner/work/exp-linear-combination-and-span-dei/exp-linear-combination-and-span-dei/experiment/simulation/js/span.js
+     1:10  warning  'showgraphs2' is defined but never used  no-unused-vars
+     4:14  warning  'showgraphsn' is defined but never used  no-unused-vars
+   153:1   warning  'cd1' is not defined                     no-undef
+   154:1   warning  'cd2' is not defined                     no-undef
+   155:1   warning  'cdd1' is not defined                    no-undef
+   155:10  warning  'cd1' is not defined                     no-undef
+   156:1   warning  'cdd2' is not defined                    no-undef
+   156:10  warning  'cd2' is not defined                     no-undef
+   157:1   warning  'cdd3' is not defined                    no-undef
+   157:9   warning  'cd1' is not defined                     no-undef
+   158:1   warning  'cdd4' is not defined                    no-undef
+   158:9   warning  'cd2' is not defined                     no-undef
+   159:10  warning  'point1' is defined but never used       no-unused-vars
+   160:21  warning  'cd1' is not defined                     no-undef
+   160:35  warning  'cd2' is not defined                     no-undef
+   162:16  warning  'cdd1' is not defined                    no-undef
+   162:31  warning  'cdd2' is not defined                    no-undef
+   163:16  warning  'cdd3' is not defined                    no-undef
+   163:31  warning  'cdd4' is not defined                    no-undef
+   166:68  warning  'cd1' is not defined                     no-undef
+   166:91  warning  'cd2' is not defined                     no-undef
+   181:5   warning  'canvas_width' is already defined        no-redeclare
+   182:5   warning  'canvas_height' is already defined       no-redeclare
+   184:5   warning  'num_lines_x' is already defined         no-redeclare
+   185:5   warning  'num_lines_y' is already defined         no-redeclare
+   188:9   warning  'i' is already defined                   no-redeclare
+   324:5   warning  'canvas_width' is already defined        no-redeclare
+   325:5   warning  'canvas_height' is already defined       no-redeclare
+   327:5   warning  'num_lines_x' is already defined         no-redeclare
+   328:5   warning  'num_lines_y' is already defined         no-redeclare
+   331:9   warning  'i' is already defined                   no-redeclare
+   480:9   warning  'i' is already defined                   no-redeclare
+   607:1   warning  'c1' is not defined                      no-undef
+   608:1   warning  'c2' is not defined                      no-undef
+   609:1   warning  'cc1' is not defined                     no-undef
+   609:9   warning  'c1' is not defined                      no-undef
+   610:1   warning  'cc2' is not defined                     no-undef
+   610:9   warning  'c2' is not defined                      no-undef
+   611:1   warning  'c3' is not defined                      no-undef
+   612:1   warning  'c4' is not defined                      no-undef
+   614:1   warning  'c5' is not defined                      no-undef
+   614:4   warning  'cc1' is not defined                     no-undef
+   614:8   warning  'c3' is not defined                      no-undef
+   615:1   warning  'c6' is not defined                      no-undef
+   615:4   warning  'cc2' is not defined                     no-undef
+   615:8   warning  'c3' is not defined                      no-undef
+   616:1   warning  'c7' is not defined                      no-undef
+   616:8   warning  'c1' is not defined                      no-undef
+   617:1   warning  'c8' is not defined                      no-undef
+   617:8   warning  'c2' is not defined                      no-undef
+   618:1   warning  'c9' is not defined                      no-undef
+   618:7   warning  'c1' is not defined                      no-undef
+   619:1   warning  'c10' is not defined                     no-undef
+   619:8   warning  'c2' is not defined                      no-undef
+   620:10  warning  'pnt1' is defined but never used         no-unused-vars
+   621:16  warning  'c1' is not defined                      no-undef
+   621:29  warning  'c2' is not defined                      no-undef
+   623:17  warning  'c9' is not defined                      no-undef
+   623:30  warning  'c10' is not defined                     no-undef
+   624:17  warning  'c7' is not defined                      no-undef
+   624:30  warning  'c8' is not defined                      no-undef
+   630:14  warning  'c1' is not defined                      no-undef
+   630:28  warning  'c2' is not defined                      no-undef
+   632:17  warning  'c9' is not defined                      no-undef
+   632:31  warning  'c10' is not defined                     no-undef
+   633:17  warning  'c7' is not defined                      no-undef
+   633:31  warning  'c8' is not defined                      no-undef
+   639:17  warning  'c1' is not defined                      no-undef
+   639:30  warning  'c2' is not defined                      no-undef
+   641:20  warning  'c9' is not defined                      no-undef
+   641:33  warning  'c10' is not defined                     no-undef
+   642:20  warning  'c7' is not defined                      no-undef
+   642:33  warning  'c8' is not defined                      no-undef
+   653:10  warning  'pnt2' is defined but never used         no-unused-vars
+   662:16  warning  'c5' is not defined                      no-undef
+   662:29  warning  'c6' is not defined                      no-undef
+   678:1   warning  'c11' is not defined                     no-undef
+   679:1   warning  'c12' is not defined                     no-undef
+   680:10  warning  'pnt3' is defined but never used         no-unused-vars
+   682:17  warning  'c11' is not defined                     no-undef
+   682:30  warning  'c12' is not defined                     no-undef
+   715:9   warning  'i' is already defined                   no-redeclare
+   844:1   warning  'cdn1' is not defined                    no-undef
+   845:1   warning  'cdn2' is not defined                    no-undef
+   847:10  warning  'pt1' is defined but never used          no-unused-vars
+   848:5   warning  'cdn7' is not defined                    no-undef
+   848:14  warning  'cdn1' is not defined                    no-undef
+   849:5   warning  'cdn8' is not defined                    no-undef
+   849:14  warning  'cdn2' is not defined                    no-undef
+   850:5   warning  'cdn9' is not defined                    no-undef
+   850:13  warning  'cdn1' is not defined                    no-undef
+   851:5   warning  'cdn10' is not defined                   no-undef
+   851:14  warning  'cdn2' is not defined                    no-undef
+   854:19  warning  'cdn9' is not defined                    no-undef
+   854:33  warning  'cdn10' is not defined                   no-undef
+   856:19  warning  'cdn7' is not defined                    no-undef
+   856:33  warning  'cdn8' is not defined                    no-undef
+   861:18  warning  'cdn1' is not defined                    no-undef
+   861:32  warning  'cdn2' is not defined                    no-undef
+   866:17  warning  'cdn9' is not defined                    no-undef
+   866:31  warning  'cdn10' is not defined                   no-undef
+   868:17  warning  'cdn7' is not defined                    no-undef
+   868:33  warning  'cdn8' is not defined                    no-undef
+   873:13  warning  'cdn1' is not defined                    no-undef
+   873:29  warning  'cdn2' is not defined                    no-undef
+   876:17  warning  'cdn9' is not defined                    no-undef
+   876:31  warning  'cdn10' is not defined                   no-undef
+   878:17  warning  'cdn7' is not defined                    no-undef
+   878:31  warning  'cdn8' is not defined                    no-undef
+   883:16  warning  'cdn1' is not defined                    no-undef
+   883:30  warning  'cdn2' is not defined                    no-undef
+   892:10  warning  'pt2' is defined but never used          no-unused-vars
+   894:5   warning  'cdn3' is not defined                    no-undef
+   895:5   warning  'cdn4' is not defined                    no-undef
+   896:5   warning  'ccdn1' is not defined                   no-undef
+   896:15  warning  'cdn1' is not defined                    no-undef
+   897:5   warning  'ccdn2' is not defined                   no-undef
+   897:15  warning  'cdn2' is not defined                    no-undef
+   898:5   warning  'cdn5' is not defined                    no-undef
+   898:10  warning  'ccdn1' is not defined                   no-undef
+   898:16  warning  'cdn3' is not defined                    no-undef
+   899:5   warning  'cdn6' is not defined                    no-undef
+   899:10  warning  'ccdn2' is not defined                   no-undef
+   899:16  warning  'cdn3' is not defined                    no-undef
+   901:18  warning  'cdn5' is not defined                    no-undef
+   901:32  warning  'cdn6' is not defined                    no-undef
+   913:10  warning  'pt3' is defined but never used          no-unused-vars
+   915:5   warning  'crd5' is not defined                    no-undef
+   916:5   warning  'crd6' is not defined                    no-undef
+   917:16  warning  'crd5' is not defined                    no-undef
+   917:28  warning  'crd6' is not defined                    no-undef
+   942:9   warning  'i' is already defined                   no-redeclare
+  1089:9   warning  'i' is already defined                   no-redeclare
+
+✖ 160 problems (0 errors, 160 warnings)
+
